@@ -52,6 +52,3 @@ python train_ner_model.py --tokenizer_path trained_tokenizers/tokenizer_1.pkl --
 
 The dataset files are not included because of their size. Place them under `data/` using the paths shown in the commands above.
 
-## Project Report
-
-The [full project report](docs/project-report.pdf) describes the preprocessing, sampling strategy, BPE training process, and evaluation.
